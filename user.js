@@ -1,2 +1,3 @@
 let userName = prompt("Please enter user name", "");
-console.log(`Name = ${userName}`);
+let userAge = prompt("Please enter user age", "");
+console.log(`Name = ${userName} - Age = ${userAge}`);
